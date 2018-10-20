@@ -94,3 +94,4 @@
    "rawTxData": "Raw tx tiedot lähetetään backend:iin",
    "rawTxDataText": " Kun olet painanut 'Vahvista', yritetään lähettää tämä tx Bittuben Nodelle. Node tekee lisätarkastuksia (esim. jos Louhinta maksu on riittävä) ja jos testi menee läpi tx tullaan lähettämään Bittuben-verkkoon, joka odottaa louhijoiden vahvistusta."
 }
+wallet - bxdsNYVbywEZQpFvausAPB1yYL9jdaMcodqmnCJRvcugHHyFkyBeoo49rJb2ayscsqcaTFp9F4cRv5Q3E1S8g8bL2Ds6ZzbeB
